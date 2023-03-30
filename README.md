@@ -3,6 +3,8 @@
 ### My name is Rudolf and I'm an aspiring software developer, studying at Codecool.
 ### Thanks for visiting my GitHub site!
 
+🌱 I’m currently learning C#, and starting ASP.NET.
+
 <!--
 **hrudolf/hrudolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
