@@ -1,6 +1,6 @@
-### Hi there 👋
-### Welcome to my GitHub site. I've created it on 11th September 2022.
-### My name is Rudolf and tomorrow I'll start on my journey to become a Software developer with Codecool.
+### Hello
+### Welcome to my GitHub site.
+### My name is Rudolf and I'm an aspiring software developer, studying at Codecool.
 ### Thanks for visiting my GitHub site!
 
 <!--
