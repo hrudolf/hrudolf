@@ -1,7 +1,6 @@
-### Hello
 ### Welcome to my GitHub site.
 ### My name is Rudolf and I'm an aspiring software developer, studying at Codecool.
-### Thanks for visiting my GitHub site!
+### My hobbies include board games, hiking and contributing to projects I believe in.
 
 🌱 I’m currently learning C#, and starting ASP.NET.
 
