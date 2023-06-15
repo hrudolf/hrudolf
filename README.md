@@ -1,6 +1,7 @@
 ### Welcome to my GitHub site.
 ### My name is Rudolf and I'm an aspiring software developer, studying at Codecool.
-### My hobbies include board games, hiking and contributing to projects I believe in.
+### My hobbies include board games, hiking, blockchain and contributing to projects I believe in.
+### As a side project I have translated Trezor Suite into Hungarian.
 
 🌱 I’m currently learning C#, and starting ASP.NET.
 
