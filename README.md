@@ -1,19 +1,16 @@
 ## Hey! Welcome to my GitHub site, my name is Rudolf and I'm a junior software developer, who just completed a Full Stack Development Course at Codecool.
 
 I have started in September 2022 and have learned and used the following:
-- JavaScript,
-- npm,
-- nodeJS,
-- Express,
+- JS, HTML, CSS,
+- nodeJS, Express, Jest,
 - React, React Router,
-- Testing with Jest,
 - MongoDB, Mongoose,
 - C#,
-- NUnit,
-- MsSQL, PostgreSQL,
 - ASP.NET Core,
+- MSSQL, PostgreSQL,
 - Entity Framework,
-- Identity Management in .NET WebAPI,
+- Identity Management in .NET,
+- NUnit,
 - CI/CD with GitHub Actions,
 - Docker, Docker Compose.
 
