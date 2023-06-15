@@ -1,4 +1,4 @@
-## Hey! Welcome to my GitHub site, my name is Rudolf and I'm a junior software developer, who just completed a Full Stack Development Course at Codecool.
+# Hey! Welcome to my GitHub site, my name is Rudolf and I'm a junior software developer, who just completed a Full Stack Development Course at Codecool.
 
 I have started in September 2022 and have learned and used the following:
 - JS, HTML, CSS,
@@ -14,7 +14,7 @@ I have started in September 2022 and have learned and used the following:
 - CI/CD with GitHub Actions,
 - Docker, Docker Compose.
 
-## My hobbies include board games, hiking, blockchain and contributing to projects I believe in.
+# My hobbies include board games, hiking, blockchain and contributing to projects I believe in.
 
 I have worked on translating Trezor Suite into Hungarian, so that other Hungarians could use a hardware wallet for their future cold storage needs.
 
