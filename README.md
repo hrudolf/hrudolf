@@ -1,9 +1,25 @@
-### Welcome to my GitHub site.
-### My name is Rudolf and I'm an aspiring software developer, studying at Codecool.
-### My hobbies include board games, hiking, blockchain and contributing to projects I believe in.
-### As a side project I have translated Trezor Suite into Hungarian.
+## Hey! Welcome to my GitHub site, my name is Rudolf and I'm a junior software developer, who just completed a Full Stack Development Course at Codecool.
 
-🌱 I’m currently learning C#, and starting ASP.NET.
+I have started in September 2022 and have learned and used the following:
+- JavaScript,
+- npm,
+- nodeJS,
+- Express,
+- React, React Router,
+- Testing with Jest,
+- MongoDB, Mongoose,
+- C#,
+- NUnit,
+- MsSQL, PostgreSQL,
+- ASP.NET Core,
+- Entity Framework,
+- Identity Management in .NET WebAPI,
+- CI/CD with GitHub Actions,
+- Docker, Docker Compose.
+
+## My hobbies include board games, hiking, blockchain and contributing to projects I believe in.
+
+I have worked on translating Trezor Suite into Hungarian, so that other Hungarians could use a hardware wallet for their future secure, cold storage needs.
 
 <!--
 **hrudolf/hrudolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
