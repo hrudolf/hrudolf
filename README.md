@@ -19,7 +19,7 @@ I have started in September 2022 and have learned and used the following:
 
 ## My hobbies include board games, hiking, blockchain and contributing to projects I believe in.
 
-I have worked on translating Trezor Suite into Hungarian, so that other Hungarians could use a hardware wallet for their future secure, cold storage needs.
+I have worked on translating Trezor Suite into Hungarian, so that other Hungarians could use a hardware wallet for their future cold storage needs.
 
 <!--
 **hrudolf/hrudolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
